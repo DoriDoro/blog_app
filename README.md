@@ -17,4 +17,4 @@ A simple one page blog application. The app is deployed on Heroku.
 
 
 ## Heroku website URL:
-
+https://lit-shelf-28532.herokuapp.com/
